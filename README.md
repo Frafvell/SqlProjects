@@ -53,7 +53,10 @@ Memasukkan jenis pakaian berdasarkan kategori (Baju Kemeja, Celana Panjang, dll.
 
 
 🔹 Menambahkan price list untuk setiap jenis pakaian.
+
 🔹 Memasukkan jumlah pakaian dalam pesanan (qty).
+
 🔹 Menghitung total harga berdasarkan pesanan.
+
 🔹 Menyiapkan laporan jumlah pesanan per bulan.
 
