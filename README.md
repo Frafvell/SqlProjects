@@ -26,14 +26,20 @@ ItemLaundry → Menyimpan detail jumlah dan harga pakaian dalam pesanan.
 
 Membuat database Laundry.
 Membuat tabel Wisma, LaundryOrder, JenisPakaian, KategoriPakaian, dan ItemLaundry.
+
+
 ✔ Menambahkan Relasi Antar Tabel
 
 LaundryOrder terhubung ke Wisma.
 JenisPakaian terhubung ke KategoriPakaian.
 ItemLaundry terhubung ke LaundryOrder dan JenisPakaian.
+
+
 ✔ Menambahkan Generated Columns
 
 Menambahkan kolom bulan & tahun di LaundryOrder untuk analisis data.
+
+
 ✔ Memasukkan Data Awal
 
 Menambahkan daftar wisma (Wisma Sungkai, Wisma Bekasap, dll.).
