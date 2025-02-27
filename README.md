@@ -1,5 +1,5 @@
-# LaundryPertamina SQL Project  
-This project is my personal learning journey in SQL.  
+# About My SQL Projects 
+This projects is my personal learning journey in SQL.  
 I will update this project regularly with my progress, structured as follows:  
 
 ## 📅 File Naming Convention  
