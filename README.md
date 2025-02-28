@@ -52,11 +52,16 @@ Memasukkan jenis pakaian berdasarkan kategori (Baju Kemeja, Celana Panjang, dll.
 📋 To-Do List (28 Februari 2025)
 
 
-🔹 Menambahkan price list untuk setiap jenis pakaian.
+🔹 Menambahkan price list untuk setiap jenis pakaian. (DONE)
 
-🔹 Memasukkan jumlah pakaian dalam pesanan (qty).
+🔹 Memasukkan jumlah pakaian dalam pesanan (qty). (CONTINUING TOMORROW)
 
-🔹 Menghitung total harga berdasarkan pesanan.
+🔹 Menghitung total harga berdasarkan pesanan. (CONTINUING TOMORROW)
 
-🔹 Menyiapkan laporan jumlah pesanan per bulan.
+🔹 Menyiapkan laporan jumlah pesanan per bulan. (CONTINUING TOMORROW)
+
+Preparing for Ramadhan tomorrow. I will complete it tomorrow.
+Mau siap siap bulan Ramadhan. Akan aku lanjutkan besok :) Happy Ramadhan everyone!
+
+
 
